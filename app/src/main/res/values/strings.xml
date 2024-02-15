@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VolumeCalculator</string>
+    <string name="gridSampleItem">Shape</string>
+    <string name="calculate">Calculate</string>
+</resources>
